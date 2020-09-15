@@ -1,7 +1,7 @@
 # Teste Prático
 
 1º Passo:
-- Para rodar o projeto utiliza o comando na pasta raiz do projeto 'python manage.py runserver'
+- Para rodar o projeto (levando em consideração que tenha o ambiente do Django configurado) utilize o comando na pasta raiz do projeto 'python manage.py runserver'
 
 Decisões de implementação
 1º Passo:
