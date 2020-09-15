@@ -1,0 +1,14 @@
+.topMenu {
+    background-color: #2ecc71;
+}
+
+.btnAction {
+    background-color: #2ecc71;
+    width: 100px;
+}
+
+.score{
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
