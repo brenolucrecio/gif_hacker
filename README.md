@@ -1,4 +1,4 @@
-<img src="https://tenor.com/view/khacker-on-pay-load-gif-15982849" >
+![](https://tenor.com/view/khacker-on-pay-load-gif-15982849)
 
 # Teste Prático
 
