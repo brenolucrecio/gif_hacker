@@ -1,5 +1,9 @@
 # Teste Prático
 
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
+
 1º Passo:
 - Para rodar o projeto (levando em consideração que tenha o ambiente do Django configurado) utilize o comando na pasta raiz do projeto 'python manage.py runserver'
 
