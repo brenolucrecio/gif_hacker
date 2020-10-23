@@ -13,4 +13,4 @@ Decisões de implementação
 - Criar um método genérico para geração dos componentes na tela
 
 3º Passo:
-- Trabalhar com estrutura de dados para fazer as ordenações nas listas de acordo com o número de SCORE do gif
+- Trabalhar com estrutura de dados para fazer as ordenações nas listas de acordo com o número de SCORE do GIF
