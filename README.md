@@ -1,6 +1,6 @@
 # Teste Prático
 
-![](https://tenor.com/view/khacker-on-pay-load-gif-15982849)
+![Hacker](https://media.tenor.com/images/57ad40aee94c2f0919736b3c83171781/tenor.gif)
 
 1º Passo:
 - Para rodar o projeto (levando em consideração que tenha o ambiente do Django configurado) utilize o comando na pasta raiz do projeto 'python manage.py runserver'.
