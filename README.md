@@ -1,6 +1,8 @@
 # Teste Prático
 
-![Hacker](https://media.tenor.com/images/57ad40aee94c2f0919736b3c83171781/tenor.gif)
+<p align="center">
+  <img src="https://media.tenor.com/images/57ad40aee94c2f0919736b3c83171781/tenor.gif" alt="hacker" width="200"/>
+</p>
 
 1º Passo:
 - Para rodar o projeto (levando em consideração que tenha o ambiente do Django configurado) utilize o comando na pasta raiz do projeto 'python manage.py runserver'.
