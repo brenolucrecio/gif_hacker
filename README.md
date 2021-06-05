@@ -1,7 +1,7 @@
 # Teste Prático
 
 <p align="center">
-  <img src="https://media.tenor.com/images/57ad40aee94c2f0919736b3c83171781/tenor.gif" alt="hacker" width="200"/>
+  <img src="https://tenor.com/view/cyberpunk-hacker-gif-5648648" alt="hacker" width="200"/>
 </p>
 
 1º Passo:
